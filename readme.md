@@ -45,8 +45,8 @@ Below is a non-exhaustive list of some of the more major technologies used by So
 
 In addition to the technologies used about, Sources has a few services integrated with the repository to make maintenance and development easier. They are:
 
-* [Travis CI](https://travis-ci.org/daily-bruin/sources) for continuous integration.
-* [CodeCov](https://codecov.io/gh/daily-bruin/sources) for code coverage visualization.
+* [Travis CI](https://travis-ci.org/dailybruin/sources) for continuous integration.
+* [CodeCov](https://codecov.io/gh/dailybruin/sources) for code coverage visualization.
 * [dependencies.io](https://app.dependencies.io/projects/github/daily-bruin/sources) for dependency management and automatic updates.
 * [Code Climate](https://codeclimate.com/github/daily-bruin/sources) for code analysis.
 

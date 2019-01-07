@@ -13,7 +13,7 @@ const SourcesFooter = () => (
     <div className="footer__text">
       <div>
         Site code{' '}
-        <SourcesFooterLink href="https://github.com/daily-bruin/sources">
+        <SourcesFooterLink href="https://github.com/dailybruin/sources">
           available on GitHub
         </SourcesFooterLink>{' '}
         and released under the{' '}
