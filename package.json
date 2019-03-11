@@ -71,7 +71,7 @@
     "match-sorter": "2.3.0",
     "morgan": "1.9.1",
     "passport": "0.4.0",
-    "passport-google-oauth": "1.0.0",
+    "passport-google-oauth": "2.0.0",
     "pg": "7.6.1",
     "prop-types": "15.6.2",
     "react": "16.6.3",
